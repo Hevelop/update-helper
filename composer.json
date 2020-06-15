@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-0": {
-            "UpdateHelper\\": "src/"
+            "UpdateHelper\\": "src/UpdateHelper/"
         }
     },
     "autoload-dev": {
