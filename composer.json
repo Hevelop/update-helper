@@ -43,8 +43,5 @@
         "post-package-update": [
             "UpdateHelper\\UpdateHelper::check"
         ]
-    },
-    "extra": {
-        "class": "UpdateHelper\\ComposerPlugin"
     }
 }
